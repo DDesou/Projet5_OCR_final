@@ -1,2 +1,3 @@
-# Projet5_OCR_final
-Here is the repos of my project5 (OpenClassRooms)
+# OCR_Project6 (D. Desoubzdanne-Dumont le 01/04/2023)
+**Segmentez des clients d'un site e-commerce**
+## Projet OpenClassroom parcours Data Scientist
